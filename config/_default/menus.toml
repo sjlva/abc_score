@@ -12,6 +12,7 @@
   name = "Calculator"
   url = "#calculator"
   weight = 1
+  
 
 [[main]]
   name = "Publications"
@@ -23,6 +24,7 @@
   name = "Contact"
   url = "#contact"
   weight = 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

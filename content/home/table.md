@@ -36,34 +36,34 @@ feature:
 
 <center>
 
-||Variable|ABC2-SPO2 Score|
+||Variable|ABC$_2$-SPH Score|
 |--|--|--|
-|**A**| **A**ge (years)||
-|| <60| 0 |
+|**$A$**| **A**ge ($years$)||
+|| $\lt$ 60| 0 |
 || 60 - 69| 1 |
 || 70 - 79| 3 |
-|| >= 80| 5 |
-|**B**|**B**lood urea nitrogen (mg/dL)* | |
-|| < 42| 0 |
-|| >= 42| 3 |
-|**C2**|**C**omorbidities | |
+|| $\geqslant$ 80| 5 |
+|**$B$**|**B**lood urea nitrogen ($mg/dL$)* | |
+|| $\lt$ 42| 0 |
+|| $\geqslant$ 42| 3 |
+|**$C_2$**|**C**omorbidities (hypertension, diabetes mellitus, obesity, coronary artery disease, heart failure, atrial fibrillation or flutter, cirrhosis, cancer and previous stroke)| |
 || 0 - 1| 0 |
-|| >= 2| 1 |
-||**C** reactive protein (mg/L)| |
-|| < 100| 0 |
-|| >= 100| 1 |
-|**S**|**S**F ratio (%)|
-||> 315|0|
+|| $\geqslant$ 2| 1 |
+||**$C$** reactive protein ($mg/L$)| |
+|| $\lt$ 100| 0 |
+|| $\geqslant$ 100| 1 |
+|**$S$**|**S**F ratio ($%$)|
+||$\gt$ 315|0|
 ||235.1 - 315.0|1|
 ||150.1 - 235 |3|
-||<= 150|6|
-|**P**|**P**latelet count (x109/L)||
-||> 150|0|
+||$\leqslant$ 150|6|
+|**$P$**|**P**latelet count ($x10^9/L$)||
+||$\gt$ 150|0|
 ||100 - 150|1|
-||< 100|2|
-|**H**|**H**earth rate (bpm)||
-||<= 90|0|
+||$\lt$ 100|2|
+|**$H$**|**H**earth rate ($bpm$)||
+||$\leqslant$ 90|0|
 ||91 - 30|1|
-||>= 131|2|
+||$\geqslant$ 131|2|
 
 </center>

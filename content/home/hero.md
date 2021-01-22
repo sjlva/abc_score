@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "ABC2 Score"
+title = "ABC$_2$-SPH mortality score for COVID-19"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = ""

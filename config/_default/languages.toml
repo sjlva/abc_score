@@ -11,27 +11,27 @@
 [pt]
   languageCode = "pt"
   contentDir = "content/pt"
-  title = "Título em PT-BR"
+  title = "ABC$_2$-SPH"
   [pt.params]
     description = "Descrição do site"
   
     
-    [[pt.main]]
+    [[pt.menu.main]]
       name = "Info"
       url = "#hero"
       weight = 10
 
-    [[pt.main]]
+    [[pt.menu.main]]
       name = "Calculadora"
       url = "#calculator"
       weight = 1
 
-    [[pt.main]]
+    [[pt.menu.main]]
       name = "Publicações"
       url = "#publications"
       weight = 50
 
-    [[pt.main]]
+    [[pt.menu.main]]
       name = "Contato"
       url = "#contact"
       weight = 70

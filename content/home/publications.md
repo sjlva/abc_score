@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -38,5 +38,9 @@ design:
 ---
 
 {{% callout note %}}
-Find our recent publications here.
+Publication: DOI
+
+References: TRIPOD e Probast
+
+Brazilian COVID-19 Registry Investigators: Colocar na ordem do artigo (1ª folha e depois os que estão no final)
 {{% /callout %}}

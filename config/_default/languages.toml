@@ -13,8 +13,25 @@
   contentDir = "content/pt"
   title = "Título em PT-BR"
   [pt.params]
-    description = "Site description in Chinese..."
-  [[pt.menu.main]]
-    name = "Wo"
-    url = "#about"
-    weight = 1
+    description = "Descrição do site"
+  
+    
+    [[pt.main]]
+      name = "Info"
+      url = "#hero"
+      weight = 10
+
+    [[pt.main]]
+      name = "Calculadora"
+      url = "#calculator"
+      weight = 1
+
+    [[pt.main]]
+      name = "Publicações"
+      url = "#publications"
+      weight = 50
+
+    [[pt.main]]
+      name = "Contato"
+      url = "#contact"
+      weight = 70

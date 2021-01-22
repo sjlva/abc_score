@@ -34,7 +34,6 @@ feature:
 #  description = "90%"
 ---
 
-```
-<iframe src="https://sjlva.shinyapps.io/ABC2-SPO2/" width=1000 height=800"></iframe>
 
-```
+
+<iframe height="800" width="100%" frameborder="no" src="https://sjlva.shinyapps.io/ABC2-SPO2/"> </iframe>

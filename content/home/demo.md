@@ -65,35 +65,5 @@ Only inhospital patients, through the use of variables easily accessible at admi
     
 {{% /alert %}}
 
-{{% alert %}}
-||Variable|ABC2-SPO2 Score|
-|--|--|--|
-|**A**| **A**ge (years)||
-|| <60| 0 |
-|| 60 - 69| 1 |
-|| 70 - 79| 3 |
-|| >= 80| 5 |
-|**B**|**B**lood urea nitrogen (mg/dL)* | |
-|| < 42| 0 |
-|| >= 42| 3 |
-|**C2**|**C**omorbidities | |
-|| 0 - 1| 0 |
-|| >= 2| 1 |
-||**C** reactive protein (mg/L)| |
-|| < 100| 0 |
-|| >= 100| 1 |
-|**S**|**S**F ratio (%)|
-||> 315|0|
-||235.1 - 315.0|1|
-||150.1 - 235 |3|
-||<= 150|6|
-|**P**|**P**latelet count (x109/L)||
-||> 150|0|
-||100 - 150|1|
-||< 100|2|
-|**H**|**H**earth rate (bpm)||
-||<= 90|0|
-||91 - 30|1|
-||>= 131|2|
 
-{{% /alert %}}
+

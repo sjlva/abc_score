@@ -40,6 +40,12 @@
     link.href = window.location.search.match( /print-pdf/gi ) ? '{{ $cdn_url_reveal }}/css/print/pdf.css' : '{{ $cdn_url_reveal }}/css/print/paper.css';
     document.getElementsByTagName( 'head' )[0].appendChild( link );
   </script>
+  
+  <script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
 
 </head>
 <body>

@@ -36,4 +36,4 @@ feature:
 
 
 
-<iframe height="900" width="100%" frameborder="no" src="https://sjlva.shinyapps.io/ABC2-SPO2-br/"> </iframe>
+<iframe height="900" width="100%" frameborder="no" src="https://sjlva.github.io/abc_calculator_pt/"> </iframe>

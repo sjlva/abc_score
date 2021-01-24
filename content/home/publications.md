@@ -42,5 +42,5 @@ Publication: DOI
 
 References: TRIPOD e Probast
 
-Brazilian COVID-19 Registry Investigators: Colocar na ordem do artigo (1ª folha e depois os que estão no final)
+_Brazilian COVID-19 Registry Investigators_: Colocar na ordem do artigo (1ª folha e depois os que estão no final)
 {{% /callout %}}

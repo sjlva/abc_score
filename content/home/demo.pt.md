@@ -29,39 +29,39 @@ design:
 ---
 
 {{% alert note %}}
-**When to use?**
+**Quando usar?**
 
-At admission in the emergency department, to stratify the in-hospital mortality risk of patients with COVID-19 
+À admissão no serviço de emergência, para estratificar o risco de mortalidade intra-hospitalar de pacientes com COVID-19. 
 {{% /alert %}}
 
 {{% alert note %}}
-**How was it developed and validated?**
+**Como foi desenvolvida e validada**
 
-Based in a cohort of xxx patients from xx hospitals, from xx cities in Brazil, following strict methodological criteria (TRIPOD checklist and PROBAST). 
+Baseada em coorte de xxx pacientes de xx hospitais, de xx municípios no Brasil, seguindo metodologia rigorosa (TRIPOD checklist and PROBAST).
 {{% /alert %}}
 
 {{% alert note %}}
- **Why to use?**
+ **Porque usar?**
 
-   + It is easily calculated at bedside at admission.
-   + It identifies four categories at increasing risk of death with a high level of accuracy, which outperformed other existing scores.
-  + It may help healthcare practitioners to better identify patients with higher risk of mortality, to inform early interventions and the need of repetitive assessments to reduce the risk of death.
+   + Facilmente calculável à beira leito à admissão hospitalar
+   + Identifica quatro categorias de maior risco de morte, com alta acurácia, maior que outros escores
+  + Pode auxiliar profissionais de saúde a identificar mais facilmente pacientes com maior risco de morte, com necessidade de reavaliações mais frequentes e intervenções mais precoces.
 {{% /alert %}}
 
 {{% alert note %}}
- **How it should be used?**
+ **Como deve ser usada?**
 
-Only inhospital patients, through the use of variables easily accessible at admission.
+Apenas pacientes internados, com o uso de variáveis facilmente acessíveis à admissão.
 
 {{% /alert %}}
 
 {{% alert note %}}
 
-**How it should not be used?**
+**Como não deve ser usada?**
 
-  + It should not be considered a medical device.
-  + It must not be interpreted as patients from low risk group may be discharged for home treatment.
-  + It was validated in a cohort of Brazilian patients, and it should not be adopted for routine clinical use in other settings until it has been appropriately externally validated in those settings.
+  + Não deve ser considerada um substituto à avaliação médica
+  + Não interpretar que pacientes de baixo risco podem receber alta
+  + Foi validada em coorte brasileira, não deve ser usada em outras populações de outros locais antes de validação externa nesses locais.
     
 {{% /alert %}}
 

@@ -38,5 +38,9 @@ design:
 ---
 
 {{% callout note %}}
-Find our recent publications here.
+Publicação: DOI
+
+Referências: TRIPOD e Probast
+
+_Brazilian COVID-19 Registry Investigators_: Luana
 {{% /callout %}}

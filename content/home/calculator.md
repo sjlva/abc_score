@@ -34,12 +34,6 @@ feature:
 #  description = "90%"
 ---
 
-<script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-  }
-</script>
-
-<iframe width="100%" height="1080" name="iframe" src="https://sjlva.github.io/abc_calculator_en/" frameborder="0"  onload="resizeIframe(this)"></iframe>
+<iframe width="100%" height="1085" name="iframe" src="https://sjlva.github.io/abc_calculator_en/" frameborder="0" class = "iframe" ></iframe>
 
 

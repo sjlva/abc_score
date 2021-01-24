@@ -34,6 +34,4 @@ feature:
 #  description = "90%"
 ---
 
-
-
-<iframe height="900" width="100%" frameborder="no" src="https://sjlva.github.io/abc_calculator_pt/"> </iframe>
+<iframe width="100%" height="1085" name="iframe" src="https://sjlva.github.io/abc_calculator_pt/" frameborder="0" class = "iframe" ></iframe>

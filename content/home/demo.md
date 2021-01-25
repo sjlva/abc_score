@@ -31,13 +31,13 @@ design:
 {{% alert note %}}
 **When to use?**
 
-At admission in the emergency department, to stratify the in-hospital mortality risk of patients with COVID-19 
+At admission in the emergency department, to stratify the in-hospital mortality risk of patients with COVID-19. 
 {{% /alert %}}
 
 {{% alert note %}}
 **How was it developed and validated?**
 
-Based in a cohort of xxx patients from xx hospitals, from xx cities in Brazil, following strict methodological criteria (TRIPOD checklist and PROBAST). 
+Based in a cohort of 5,032 patients from 36 hospitals, from 17 cities in Brazil, as well as a cohort of 474 Spanish patients, following strict methodological criteria. $^{1,2}$
 {{% /alert %}}
 
 {{% alert note %}}

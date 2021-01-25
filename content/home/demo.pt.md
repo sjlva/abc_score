@@ -37,11 +37,11 @@ design:
 {{% alert note %}}
 **Como foi desenvolvida e validada**
 
-Baseada em coorte de xxx pacientes de xx hospitais, de xx municípios no Brasil, seguindo metodologia rigorosa (TRIPOD checklist and PROBAST).
+Baseada em coorte de 5,032 pacientes de 36 hospitais, de 17 municípios no Brasil, assim cmo uma coorte de 474 pacientes da Espanha, seguindo metodologia rigorosa. $^{1,2}$ 
 {{% /alert %}}
 
 {{% alert note %}}
- **Porque usar?**
+ **Por que usar?**
 
    + Facilmente calculável à beira leito à admissão hospitalar
    + Identifica quatro categorias de maior risco de morte, com alta acurácia, maior que outros escores

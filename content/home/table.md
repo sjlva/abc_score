@@ -35,6 +35,8 @@ feature:
 ---
 
 
+## Calculator
+
 <center>
 
 ||Variable|ABC$_2$-SPH Score|
@@ -47,6 +49,9 @@ feature:
 |**$B$**|$B$lood urea nitrogen ($mg/dL$)* | |
 || $\lt$ 42| 0 |
 || $\geqslant$ 42| 3 |
+||Or urea ($mg/dL$)*||
+|| $\lt$ 90| 0 |
+|| $\geqslant$ 90| 3 |
 |**$C_2$**|$C$omorbidities (hypertension, diabetes mellitus, obesity, coronary artery disease, heart failure, atrial fibrillation or flutter, cirrhosis, cancer and previous stroke)| |
 || 0 - 1| 0 |
 || $\geqslant$ 2| 1 |

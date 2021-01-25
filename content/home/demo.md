@@ -37,7 +37,7 @@ At admission in the emergency department, to stratify the in-hospital mortality 
 {{% alert note %}}
 **How was it developed and validated?**
 
-Based in a cohort of 5,032 patients from 36 hospitals, from 17 cities in Brazil, as well as a cohort of 474 Spanish patients, following strict methodological criteria. $^{1,2}$
+Based in a cohort of 5,032 patients from 36 hospitals, from 17 cities in Brazil, as well as a cohort of 474 Spanish patients, following strict methodological criteria. [$^{1,2}$](https://abc2sph.com/#publications)
 {{% /alert %}}
 
 {{% alert note %}}

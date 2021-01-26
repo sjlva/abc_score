@@ -58,7 +58,7 @@ feature:
 ||**$C$** reactive protein ($mg/L$)| |
 || $\lt$ 100| 0 |
 || $\geqslant$ 100| 1 |
-|**$S$**|$S$F ratio ($%$)|
+|**$S$**|$SpO_2/FiO_2$  (%)|
 ||$\gt$ 315|0|
 ||235.1 - 315.0|1|
 ||150.1 - 235 |3|
@@ -71,5 +71,6 @@ feature:
 ||$\leqslant$ 90|0|
 ||91 - 30|1|
 ||$\geqslant$ 131|2|
+
 
 </center>

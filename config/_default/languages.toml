@@ -17,7 +17,7 @@
   
     
     [[pt.menu.main]]
-      name = "Info"
+      name = "Informações"
       url = "#hero"
       weight = 10
 

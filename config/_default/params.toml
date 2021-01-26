@@ -93,7 +93,7 @@ phone = "+55 3133079201"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "110, Professor Alfredo Balena", city = "Belo Horizonte", region = "Minas Gerais", postcode = "30130-100", country = "Brazil", country_code = "BR"}
+address = {street = "110, Professor Alfredo Balena Avenue", city = "Belo Horizonte", region = "Minas Gerais, Brazil,", postcode = "30130-100", country = "Brazil", country_code = "BR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

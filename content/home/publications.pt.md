@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publicações
 subtitle: ''
 
 content:
@@ -40,11 +40,4 @@ design:
 {{% callout note %}}
 Publicação: DOI
 
-Referências: 
-
-$^1$ [Moons KGM, Altman DG, Reitsma JB, et al. Transparent Reporting of a multivariable prediction model for Individual Prognosis or Diagnosis (TRIPOD): explanation and elaboration. Annals of Internal Medicine 2015; 162(1): W1-W73.](https://pubmed.ncbi.nlm.nih.gov/25560730/)  
-
-$^2$ [Wolff RF, Moons KGM, Riley RD, et al. PROBAST: A Tool to Assess the Risk of Bias and Applicability of Prediction Model Studies. Annals of Internal Medicine 2019; 170(1): 51-8.](https://pubmed.ncbi.nlm.nih.gov/30596875/)
-
-_Brazilian COVID-19 Registry Investigators_: 
 {{% /callout %}}

@@ -1,7 +1,7 @@
 theme: starter-academic
 title: ABC$_2$-SPH Mortality Score
 baseurl: ''
-copyright: '© 2021 Milena Marcolino - All rights reserved'
+copyright: '© 2021 Milena Marcolino and Magda Pires - All rights reserved'
 enableGitInfo: no
 defaultContentLanguage: en
 hasCJKLanguage: no
@@ -12,7 +12,6 @@ paginate: 10
 enableEmoji: yes
 enableRobotsTXT: yes
 footnotereturnlinkcontents: <sup>^</sup>
-runtime: shiny
 ignoreFiles:
   - \.ipynb$
   - .ipynb_checkpoints$

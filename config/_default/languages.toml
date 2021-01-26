@@ -27,9 +27,19 @@
       weight = 1
 
     [[pt.menu.main]]
+      name = "Equipe"
+      url = "#team"
+      weight = 55
+
+    [[pt.menu.main]]
       name = "Publicações"
       url = "#publications"
       weight = 50
+      
+    [[pt.menu.main]]
+      name = "Referências"
+      url = "#references"
+      weight = 51
 
     [[pt.menu.main]]
       name = "Contato"

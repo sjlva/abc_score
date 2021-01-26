@@ -34,6 +34,8 @@ feature:
 #  description = "90%"
 ---
 
+## Calculadora
+
 <center>
 
 ||Variável|Escore ABC$_2$-SPH|

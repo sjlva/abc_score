@@ -274,7 +274,7 @@ collections:
     label: "Pages"
     files:
       - file: "content/privacy.md"
-        label: "Privacy Policy"
+        label: ""
         name: "privacy"
         fields:
           - {label: "Title", name: "title", widget: "string"}

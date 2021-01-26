@@ -1,13 +1,7 @@
 <footer class="site-footer">
-  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  {{ if or (site.GetPage "") (site.GetPage "privacy.md") }}
   <p class="powered-by">
-    {{ with site.GetPage "privacy.md" }}
-      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
-    {{ with site.GetPage "terms.md" }}
-      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
-      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-    {{ end }}
+    
   </p>
   {{ end }}
 
@@ -22,10 +16,12 @@
     {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
     {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
     {{ if not (and $is_sponsor $hide_published_with_footer) }}
-    Published with
-    <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a>  —
-    the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">
-    open source</a> website builder that empowers creators.
+    Made with the 
+    <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project "></i> </a>
+    <a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package and  with the <a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">wowchemy</a> —
+    by <a href="https://www.linkedin.com/in/luckermos/" target="_blank" rel="noopener">
+    Lucas</a> and <a href="https://www.linkedin.com/in/rafael-silva-807a07115/" target="_blank" rel="noopener">
+    Rafael</a>.
     {{ end }}
   </p>
 </footer>

@@ -93,18 +93,18 @@ phone = "+55 3133079201"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "110, Professor Alfredo Balena Avenue", city = "Belo Horizonte", region = "Minas Gerais, Brazil,", postcode = "30130-100", country = "Brazil", country_code = "BR"}
+address = {street = "Avenida Professor Alfredo Balena, 110", city = "Belo Horizonte", region = "Minas Gerais, Brasil,", postcode = "30130-100", country = "Brazil", country_code = "BR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "-19.92408618669564", longitude = "-43.92817598662822"}
 
 # Directions for visitors to locate you.
-directions = "Telehealth Center, University Hospital, Universidade Federal de Minas Gerais"
+directions = "Centro de Telessaúde do Hospital das Clínicas, Universidade Federal de Minas Gerais"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday to Friday 7:00 to 19:00", "UTC/GMT -03:00"]
+office_hours = ["Segunda a sexta, 7:00 a 19:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"

@@ -45,3 +45,41 @@
       name = "Contato"
       url = "#contact"
       weight = 70
+
+[es]
+  languageCode = "es"
+  contentDir = "content/es"
+  title = "Escala de mortalidad ABC$_2$-SPH"
+  [es.params]
+    description = ""
+  
+    
+    [[es.menu.main]]
+      name = "Información"
+      url = "#hero"
+      weight = 10
+
+    [[es.menu.main]]
+      name = "Calculadora"
+      url = "#calculator"
+      weight = 1
+
+    [[es.menu.main]]
+      name = "Equipo"
+      url = "#team"
+      weight = 55
+
+    [[es.menu.main]]
+      name = "Publicación"
+      url = "#publications"
+      weight = 50
+      
+    [[es.menu.main]]
+      name = "Referencias"
+      url = "#references"
+      weight = 51
+
+    [[es.menu.main]]
+      name = "Contacto"
+      url = "#contact"
+      weight = 70

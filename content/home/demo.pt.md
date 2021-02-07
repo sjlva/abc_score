@@ -37,7 +37,7 @@ design:
 {{% alert note %}}
 **Como foi desenvolvida e validada**
 
-Baseada em coorte de 5,032 pacientes de 36 hospitais, de 17 municípios no Brasil, assim cmo uma coorte de 474 pacientes da Espanha, seguindo metodologia rigorosa. [$^{1,2}$](https://abc2sph.com/#publications)
+Baseada em coorte de 5,032 pacientes de 36 hospitais, de 17 municípios no Brasil, assim como uma coorte de 474 pacientes da Espanha, seguindo metodologia rigorosa. [$^{1,2}$](https://abc2sph.com/#publications)
 {{% /alert %}}
 
 {{% alert note %}}

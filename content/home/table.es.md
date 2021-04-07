@@ -51,7 +51,7 @@ feature:
 ||O urea (mg/dL)*||
 || $\lt$ 90| 0 |
 || $\geqslant$ 90| 3 |
-|**$C_2$**|$C$omorbilidades (hipertensión, diabetes mellitus, obesidad, enfermedad coronaria, insuficiencia cardíaca, fibrilación o aleteo auricular, cirrosis, cáncer y accidente cerebrovascular previo)| |
+|**$C_2$**|$C$omorbilidades (hipertensión, diabetes mellitus, obesidad, enfermedad coronaria, insuficiencia cardíaca, fibrilación o aleteo auricular, cirrosis, cáncer, COPD y accidente cerebrovascular previo)| |
 || 0 - 1| 0 |
 || $\geqslant$ 2| 1 |
 ||**$C$** - proteína $C$ reactiva ($mg/L$)| |

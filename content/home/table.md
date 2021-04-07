@@ -52,7 +52,7 @@ feature:
 ||Or urea ($mg/dL$)*||
 || $\lt$ 90| 0 |
 || $\geqslant$ 90| 3 |
-|**$C_2$**|$C$omorbidities (hypertension, diabetes mellitus, obesity, coronary artery disease, heart failure, atrial fibrillation or flutter, cirrhosis, cancer and previous stroke)| |
+|**$C_2$**|$C$omorbidities (hypertension, diabetes mellitus, obesity, coronary artery disease, heart failure, atrial fibrillation or flutter, cirrhosis, cancer, COPD and previous stroke)| |
 || 0 - 1| 0 |
 || $\geqslant$ 2| 1 |
 ||**$C$** reactive protein ($mg/L$)| |

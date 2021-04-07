@@ -51,7 +51,7 @@ feature:
 ||Ou ureia (mg/dL)*||
 || $\lt$ 90| 0 |
 || $\geqslant$ 90| 3 |
-|**$C_2$**|$C$omorbidades (hipertensão, diabetes mellitus, obesidade, doença coronariana, insuficiência cardíaca, fibrilação ou flutter atrial, cirrose, câncer e acidente vascular encefálico prévio)| |
+|**$C_2$**|$C$omorbidades (hipertensão, diabetes mellitus, obesidade, doença coronariana, insuficiência cardíaca, fibrilação ou flutter atrial, cirrose, câncer, DPOC e acidente vascular encefálico prévio)| |
 || 0 - 1| 0 |
 || $\geqslant$ 2| 1 |
 ||**$C$** - proteína $C$ reativa ($mg/L$)| |

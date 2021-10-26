@@ -42,5 +42,5 @@ $^1$ [Moons KGM, Altman DG, Reitsma JB, et al. Transparent Reporting of a multiv
 
 $^2$ [Wolff RF, Moons KGM, Riley RD, et al. PROBAST: A Tool to Assess the Risk of Bias and Applicability of Prediction Model Studies. Annals of Internal Medicine 2019; 170(1): 51-8.](https://pubmed.ncbi.nlm.nih.gov/30596875/)
 
-$^3$ [Marcolino MS, Pires MC, Ramos LEF, Silva RT, Oliveira LM et al. ABC2-SPH risk score for in-hospital mortality in COVID-19 patients: development, external validation and comparison with other available scores. MedRxiv 2021.02.01.21250306](https://www.sciencedirect.com/science/article/pii/S1201971221006056) 
+$^3$ [Marcolino MS, Pires MC, Ramos LEF, Silva RT, Oliveira LM et al. ABC2-SPH risk score for in-hospital mortality in COVID-19 patients: development, external validation and comparison with other available scores. International Journal of Infectious Diseases](https://www.sciencedirect.com/science/article/pii/S1201971221006056) 
 {{% /callout %}}

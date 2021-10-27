@@ -45,6 +45,11 @@
       name = "Contato"
       url = "#contact"
       weight = 70
+      
+    [[pt.menu.main]]
+      name = "App"
+      url = "#downloadapp"
+      weight = 80
 
 [es]
   languageCode = "es"
@@ -83,3 +88,8 @@
       name = "Contacto"
       url = "#contact"
       weight = 70
+      
+    [[es.menu.main]]
+      name = "App"
+      url = "#downloadapp"
+      weight = 80

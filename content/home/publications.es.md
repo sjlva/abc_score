@@ -38,6 +38,6 @@ design:
 ---
 
 {{% callout note %}}
-Publicación: Marcolino MS, Pires MC, Ramos LEF, Silva RT, Oliveira LM et al. ABC2-SPH risk score for in-hospital mortality in COVID-19 patients: development, external validation and comparison with other available scores. International Journal of Infectious Diseases; URL: https://www.sciencedirect.com/science/article/pii/S1201971221006056
+Publicación: Marcolino MS, Pires MC, Ramos LEF, Silva RT, Oliveira LM et al. ABC2-SPH risk score for in-hospital mortality in COVID-19 patients: development, external validation and comparison with other available scores. International Journal of Infectious Diseases. Volume 110, September 2021, Pages 281-308; URL: https://www.sciencedirect.com/science/article/pii/S1201971221006056
 
 {{% /callout %}}

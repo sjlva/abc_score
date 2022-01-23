@@ -1,5 +1,7 @@
 ## [ABC2-SPH Mortality Score](https://abc2sph.com/)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58767227-ed7f-4085-a0f9-29f12193b2f9/deploy-status)](https://app.netlify.com/sites/abcscore/deploys)
+
 Estimates in-hospital mortality in patients admitted for COVID-19.
 
 ## [Publication](https://linkinghub.elsevier.com/retrieve/pii/S1201-9712(21)00605-6): 
